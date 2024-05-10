@@ -1,7 +1,7 @@
 # Multi-class-Prediction-of-Obesity-Risk
 
 ## Description:
-This project focuses on predicting obesity risk using multiclass classification techniques. The dataset utilized in this project was generated from a deep learning model trained on the Obesity or Cardiovascular Disease (CVD) risk dataset provided on the Kaggle Playground problem.
+This project is centered on predicting multiclass obesity risk. It involves comprehensive data visualization techniques to elucidate the characteristics of the dataset. Furthermore, the project entails training and fine-tuning multiple machine-learning models to achieve optimal predictive performance.
 
 ## Approach:
 
